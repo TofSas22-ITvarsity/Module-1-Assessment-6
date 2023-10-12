@@ -1,5 +1,5 @@
 .gallery img{
-    width: 58%;
+    width: 100%;
 }
 
 #menu{
@@ -31,7 +31,7 @@ body{
 
 h2{
     font-family: Impact, fantasy;
-    text-align: left;
+    text-align: center;
     font-size: 30px;
     color: #5077bd;
     font-style: italic;
